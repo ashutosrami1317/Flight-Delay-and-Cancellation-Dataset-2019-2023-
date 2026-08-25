@@ -298,6 +298,6 @@ To build a comprehensive Airline Analytics Dashboard that enables stakeholders t
 
 # 👨‍💻 Author
 
-**Tushar Bagle**
+**Rami Ashutosh**
 
 **Power BI | Data Analytics | Business Intelligence**
